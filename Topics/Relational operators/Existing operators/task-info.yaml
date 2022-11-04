@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ==
+- text: '&gt;&gt;&gt;'
+- text: '!='
+- text: '&lt;&gt;'
+- text: '&lt;&lt;'
+- text: '&gt;'
+- text: =
+- text: '&lt;='
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4529#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Sun, 30 Oct 2022 12:39:34 UTC
+record: -1
+selected_options:
+- 0
+- 2
+- 7
+local_check: false
